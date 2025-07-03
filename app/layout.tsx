@@ -1,4 +1,3 @@
-'use client';
 import './globals.css';
 import { AuthProvider } from '@/hooks/use-auth';
 
